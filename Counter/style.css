@@ -42,3 +42,28 @@ h1 {
     left: 410px;
     top: 100px;
 }
+
+@media screen and (max-width: 479px) {
+    .counter {
+        position: absolute;
+        left: 15px;
+        top: 50px;  
+        font-size: 150%;
+    }
+    .counter1 {
+        position: absolute;
+        left: 454px;
+        top: 50px;  
+        font-size: 150%;
+    }
+    .img {
+        position: absolute;
+        left: 200px;
+        top: 30px;
+    }
+    .restart {
+        position: absolute;
+        top: 300px;
+        left: 250px;
+    }
+}
