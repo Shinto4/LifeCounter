@@ -43,7 +43,7 @@ h1 {
     top: 100px;
 }
 
-@media screen and (max-width: 479px) {
+@media screen and (min-width: 479px) {
     body {
         width: 479px;
         height: 1000px;
