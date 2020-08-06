@@ -43,20 +43,20 @@ h1 {
     top: 100px;
 }
 
-@media screen and (min-width: 479px) {
+@media screen and (max-width: 479px) {
     body {
         width: 479px;
         height: 100px;
     }
     .counter {
         position: absolute;
-        left: 954x;
+        left: 939x;
         top: 50px;  
         font-size: 150%;
     }
     .counter1 {
         position: absolute;
-        left: 15px;
+        left: 30px;
         top: 50px;  
         font-size: 150%;
     }
