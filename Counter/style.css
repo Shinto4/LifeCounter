@@ -51,19 +51,21 @@ h1 {
     .counter {
         position: absolute;
         left: 939x;
-        top: 50px;  
-        font-size: 150%;
+        top: 500px;  
+        font-size: 300%;
     }
     .counter1 {
         position: absolute;
         left: 30px;
-        top: 50px;  
-        font-size: 150%;
+        top: 500px;  
+        font-size: 300%;
     }
     .img {
         position: absolute;
-        left: 200px;
-        top: 30px;
+        left: 80px;
+        top: 450px;
+        width: 850px;
+        height: 600px;
     }
     .restart {
         position: absolute;
