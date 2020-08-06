@@ -46,17 +46,17 @@ h1 {
 @media screen and (min-width: 479px) {
     body {
         width: 479px;
-        height: 1000px;
+        height: 100px;
     }
     .counter {
         position: absolute;
-        left: 15px;
+        left: 954x;
         top: 50px;  
         font-size: 150%;
     }
     .counter1 {
         position: absolute;
-        left: 454px;
+        left: 15px;
         top: 50px;  
         font-size: 150%;
     }
